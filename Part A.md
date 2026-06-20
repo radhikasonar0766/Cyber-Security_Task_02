@@ -3,6 +3,7 @@
 **Definition:** Confidentiality means protecting information from unauthorized access. Only authorized people should be able to view sensitive data.
 
 
+
 **Why it is Important:**
 
 Protects personal and sensitive information.
@@ -13,15 +14,18 @@ Maintains trust between organizations and users.
 
 
 
+
 **Real-World Example:**
 
 Only authorized staff members can access student examination records in a college database.
 
 
 
+
 **2. Integrity**
 
 **Definition:** Integrity ensures that data remains accurate, complete, and unaltered.
+
 
 
 
@@ -32,6 +36,7 @@ Prevents unauthorized modification of data.
 Maintains data accuracy.
 
 Helps organizations make correct decisions.
+
 
 
 
