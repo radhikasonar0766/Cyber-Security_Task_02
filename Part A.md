@@ -3,7 +3,6 @@
 **Definition:** Confidentiality means protecting information from unauthorized access. Only authorized people should be able to view sensitive data.
 
 
-
 **Why it is Important:**
 
 Protects personal and sensitive information.
