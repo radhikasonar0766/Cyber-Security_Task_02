@@ -1,0 +1,14 @@
+Security Recommendations:
+
+| Recommendation                             | Importance                                                                                                                                            
+
+| Enable Multi-Factor Authentication (MFA)   | Adds an extra layer of security by requiring a second verification step, making it much harder for attackers to access accounts even if                                                                                                                           passwords are stolen. 
+| Use Strong Passwords                       | Strong, unique passwords reduce the risk of unauthorized access and help protect accounts from brute-force and password-guessing attacks.                     |
+| Regular System Updates                     | Software updates fix known security flaws, improve system stability, and protect devices from newly discovered threats.                                       |
+| Install Antivirus Software                 | Antivirus tools detect, block, and remove malware, helping prevent data loss, system damage, and cyberattacks.                                                  | 
+| Conduct Security Training                  | Educates users about phishing, social engineering, and safe online practices, reducing the likelihood of human errors that lead to security                                                       breaches.         
+| Regular Data Backups                       | Ensures important data can be restored after incidents such as ransomware attacks, hardware failures, or accidental deletion.                                 |
+| Access Control Policies                    | Restricts access to sensitive systems and information to authorized users only, reducing insider and external security risks.                                 |
+| Firewall Protection                        | Monitors and filters network traffic, blocking unauthorized connections and helping prevent cyberattacks.                                                     | 
+| Encrypt Sensitive Data                     | Converts data into a secure format that can only be read by authorized parties, protecting confidential information from theft or interception.               |
+| Perform Security Audits                    | Regularly assesses systems, policies, and procedures to identify vulnerabilities and ensure security controls remain effective.                               |

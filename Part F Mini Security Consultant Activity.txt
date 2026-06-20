@@ -1,0 +1,49 @@
+# Cybersecurity Improvement Report for College
+
+##Introduction
+
+As educational institutions increasingly rely on digital platforms for learning, administration, and communication, cybersecurity has become a critical concern. Colleges store sensitive information such as student records, examination data, financial details, and research materials, making them attractive targets for cybercriminals. This report outlines the major cybersecurity risks faced by colleges and recommends practical measures to strengthen security.
+
+##Top 5 Cybersecurity Risks
+
+1.Phishing Attacks
+Students and staff may receive fraudulent emails designed to steal login credentials or sensitive information, leading to unauthorized access to institutional systems.
+
+2.Weak Password Practices
+The use of simple or reused passwords increases the likelihood of account compromise through brute-force or credential-stuffing attacks.
+
+3.Malware and Ransomware
+Malicious software can infect college networks, encrypt critical data, disrupt academic activities, and demand ransom payments.
+
+4. Unsecured Devices and Networks
+Personal devices connected to campus networks may lack proper security controls, creating entry points for attackers.
+
+5. Data Breaches
+Unauthorized access to student, faculty, and administrative data can result in privacy violations, financial losses, and reputational damage.
+
+##Top 5 Recommendations
+
+1.Implement Multi-Factor Authentication (MFA)
+Require users to verify their identity through an additional authentication method beyond passwords.
+
+2.Conduct Regular Cybersecurity Awareness Training
+Provide periodic training sessions to educate students and staff about phishing, password security, and safe online behavior.
+
+3.Enforce Strong Password Policies
+Require complex passwords, regular password updates, and prohibit password reuse across systems.
+
+4.Maintain Regular Software and System Updates
+Ensure operating systems, applications, and security tools are updated promptly to address known vulnerabilities.
+
+5.Establish Regular Data Backup and Recovery Procedures
+Create secure backups of critical data and regularly test recovery processes to minimize disruption during cyber incidents.
+
+## Expected Benefits
+* Reduced risk of unauthorized access to college systems and accounts.
+* Better protection of sensitive student, staff, and institutional data.
+* Increased awareness of cybersecurity threats among users.
+* Improved resilience against malware, ransomware, and data loss incidents.
+* Enhanced trust, compliance, and reputation of the institution through stronger security practices.
+
+## Conclusion
+Cybersecurity is a shared responsibility that requires both technological safeguards and user awareness. By addressing the identified risks and implementing the recommended controls, the college can significantly strengthen its cybersecurity posture, protect valuable information assets, and ensure a secure learning environment for all stakeholders.

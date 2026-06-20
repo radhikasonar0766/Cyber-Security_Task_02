@@ -1,0 +1,39 @@
+Threat Identification:
+
+1. Insider Threat
+Description: Threat caused by employees or authorized users.
+Possible Impact: Data theft.
+	 Information leakage.
+Prevention: Access control.
+	    User monitoring.
+	    Security policies.
+
+2. Malware
+Description: Malicious software that damages systems.
+Possible Impact: Data loss.
+	         System failure.
+Prevention: Antivirus software.
+	    Regular updates.
+
+3. Phishing
+Description: Fake emails or websites used to steal information.
+Possible Impact: Password theft.
+	         Financial loss.
+Prevention: User awareness.
+	    Email filtering.
+	    MFA.
+
+4. Weak Passwords
+Description: Simple passwords that are easy to guess.
+Possible Impact: Unauthorized access.
+		 Account compromise.
+Prevention: Strong password policy.
+	    Password managers.
+            Multi-factor authentication.
+
+5. Unpatched Systems
+Description: Systems without security updates.
+Possible Impact: Exploitation by attackers.
+		 Malware infections.
+Prevention: Regular updates.
+	    Patch management.
